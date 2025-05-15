@@ -1,0 +1,64 @@
+.service_cards{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+}
+.service_cards .service_card{
+    padding:35px 30px;
+    border:1px solid transparent;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+    background-color:rgba(131,131,131,0.05);
+    transition: .6s;
+}
+.service_cards .service_card:hover{
+    border:1px solid #452205;
+}
+.service_cards .service_card i{
+    font-size:35px;
+    color:chocolate;
+    margin-bottom:5px;
+}
+.service_cards .service_card:hover i{
+    animation: Anim_shake 1s forwards linear;
+    
+}
+.service_cards .service_card h3{
+    font-size: 20px;
+    margin-bottom:10px;
+}
+.service_cards .service_card p{
+    font-size: 12px;
+    margin-top: 3px;
+    font-family: 'poppins';
+    color:rgba(131,131,131,1);
+}
+@keyframes Anim_shake{
+0%,100%{
+    transform: translateX(0);
+}
+10%,30%,50%,70%{
+    transform: translateX(-10px);
+}
+20%,40%,60%{
+    transform: translateX(10px);
+}
+80%{        
+    transform: translateX(8px);
+}
+90%{
+    transform: translateX(-8px);
+}
+}
+@media screen and (max-width: 1200px){
+    .service_cards{
+        grid-template-columns: repeat(2, 1fr);       
+    }
+}
+@media screen and (max-width:768px){
+    .service_cards{
+        grid-template-columns: repeat(1, 1fr);       
+    }
+}
