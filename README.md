@@ -1,7 +1,8 @@
 # SpaceZ Hotels
 A cutting-edge hotel booking platform with immersive space-themed UI, built for modern travelers seeking extraordinary experiences.
 
-##Features
+#Features
+
 -Interactive room explorer with Swiper.js touch sliders.
 
 -Responsive cosmic design for all devices
