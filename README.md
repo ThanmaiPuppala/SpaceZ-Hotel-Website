@@ -20,7 +20,7 @@ A cutting-edge hotel booking platform with immersive space-themed UI, built for 
 .Key Library: Swiper.js 
 
 ##Quick Start
-1.clone repository:
+1.clone repository:https://github.com/ThanmaiPuppala/SpaceZ-Hotel-Website.git
 
 2.npm install
 
