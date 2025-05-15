@@ -1,12 +1,29 @@
-# React + Vite
+# SpaceZ Hotels
+A cutting-edge hotel booking platform with immersive space-themed UI, built for modern travelers seeking extraordinary experiences.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##Features
+-Interactive room explorer with Swiper.js touch sliders.
 
-Currently, two official plugins are available:
+-Responsive cosmic design for all devices
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Lightning-fast performance powered by Vite
 
-## Expanding the ESLint configuration
+-Pure CSS animations for stellar visual effects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##Tech Stack
+.Frontend: React 
+
+.Styling: CSS Modules + Flexbox/Grid
+
+.Build Tool: Vite
+
+.Key Library: Swiper.js 
+
+##Quick Start
+1.clone repository:
+
+2.npm install
+
+3.npm run dev
+
+Feel Free to make changes to existing code.
