@@ -1,7 +1,10 @@
 # SpaceZ Hotels
 A cutting-edge hotel booking platform with immersive space-themed UI, built for modern travelers seeking extraordinary experiences.
 
-#Features:
+<img width="1426" alt="Screenshot 2025-05-20 at 4 01 54 PM" src="https://github.com/user-attachments/assets/f9d4df62-8330-48e7-b770-61a0ab9f7e6a" />
+
+
+# Features:
 
 -Interactive room explorer with Swiper.js touch sliders.
 
@@ -11,17 +14,17 @@ A cutting-edge hotel booking platform with immersive space-themed UI, built for 
 
 -Pure CSS animations for stellar visual effects
 
-##Tech Stack:
+## Tech Stack:
 
-.Frontend: React 
+- Frontend: React
 
-.Styling: CSS Modules + Flexbox/Grid
+- Styling: CSS Modules + Flexbox/Grid
 
-.Build Tool: Vite
+- Build Tool: Vite
 
-.Key Library: Swiper.js 
+- Key Library: Swiper.js 
 
-##Quick Start:
+## Quick Start:
 
 1.clone repository:https://github.com/ThanmaiPuppala/SpaceZ-Hotel-Website.git
 
